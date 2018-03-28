@@ -1,0 +1,4 @@
+# Ipython checkpoints
+*.ipynb_checkpoints
+# Ignore data files
+*.csv
